@@ -15,3 +15,17 @@ U
 %Baekjoon/2020-03-01/Baekjoon2580.java,0\6\06ace6e35d3b65c0741b3b22dd24cbc7834105d2
 V
 &Baekjoon/2020-03-02/Baekjoon14888.java,2\3\23b32c50c30de20e6b74e2e9c3e243cc5493da09
+V
+&Baekjoon/2020-03-03/Baekjoon14889.java,3\e\3ec0e68d50f7ef2a3c942ede66058267eb1d87c8
+U
+%Baekjoon/2020-03-04/Baekjoon2748.java,c\a\ca611bb655418f4751a4fb34cb674fcbe9648ba2
+U
+%Baekjoon/2020-03-05/Baekjoon5543.java,3\3\339eb6f8265fabcccaffb4e6ea204c061e401aac
+U
+%Baekjoon/2020-03-05/Baekjoon1003.java,2\4\24a2929fe495b05df1c6b27e3e8f074610a81e1f
+U
+%Baekjoon/2020-03-05/Baekjoon1904.java,d\6\d6e4f683291128e7122e2e8afa03d1a9f1af8c69
+U
+%Baekjoon/2020-03-05/Baekjoon9461.java,4\9\49bbce9581fe306fcec36f926afbe38b0e5b0de5
+U
+%Baekjoon/2020-03-05/Baekjoon1149.java,e\a\ea6b6913e2eff90fb9195a416cd75d837e8c85d2

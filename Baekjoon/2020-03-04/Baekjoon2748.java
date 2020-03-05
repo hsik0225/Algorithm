@@ -1,3 +1,5 @@
+////https://www.acmicpc.net/problem/2748
+
 import java.util.Scanner;
 
 public class Baekjoon2748 {
