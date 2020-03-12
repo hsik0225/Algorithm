@@ -4,35 +4,56 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Baekjoon11054 {
+    static int n;
+    static int[] front;
+    static int[] back;
+    static int[] array;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int max = 1;
-        int n = Integer.parseInt(br.readLine());
-        int[][] dp = new int[n][3];
+        n = Integer.parseInt(br.readLine());
+
+        front = new int[n];
+        back = new int[n];
+        array = new int[n];
 
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         for (int i = 0; i < n; i++) {
-            dp[i][0] = Integer.parseInt(st.nextToken());
-            dp[i][1] = 1;
-            dp[i][2] = 1;
+            array[i] = Integer.parseInt(st.nextToken());
+            front[i] = back[i] = 1;
         }
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (dp[i][0] > dp[j][0]) {
-                    dp[i][1] = Math.max(dp[i][1], dp[j][1] + 1);
-                }
+        lis();
+        reverseLis();
 
-                if (dp[i][0] < dp[j][0]) {
-                    dp[i][2] = Math.max(dp[i][2], dp[j][2] + 1);
-//                    dp[i][2] = Math.max(dp[i][2], dp[j][1] + 1);
+        int max = 0;
+
+        for (int i = 0; i < n; i++) {
+            max = Math.max(max, front[i] + back[i]);
+        }
+
+        System.out.println(max - 1);
+    }
+
+    public static void lis() {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j <= i; j++) {
+                if (array[i] > array[j]) {
+                    front[i] = Math.max(front[i], front[j] + 1);
                 }
             }
-            max = Math.max(max, Math.max(dp[i][1], dp[i][2]));
         }
+    }
 
-        System.out.println(max);
+    public static void reverseLis() {
+        for (int i = n - 1; i >= 1; i--) {
+            for (int j = n - 1; j >= i; j--) {
+                if (array[i] > array[j]) {
+                    back[i] = Math.max(back[i], back[j] + 1);
+                }
+            }
+        }
     }
 }
