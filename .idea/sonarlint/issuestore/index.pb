@@ -29,3 +29,15 @@ U
 %Baekjoon/2020-03-05/Baekjoon9461.java,4\9\49bbce9581fe306fcec36f926afbe38b0e5b0de5
 U
 %Baekjoon/2020-03-05/Baekjoon1149.java,e\a\ea6b6913e2eff90fb9195a416cd75d837e8c85d2
+U
+%Baekjoon/2020-03-06/Baekjoon2579.java,4\2\422b0e6295e1a6be45bf3720b7b4e42fb62fcd4a
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+V
+&Baekjoon/2020-03-12/Baekjoon10844.java,8\8\883c1dd22a45436d475127ca1f27a5dc3a856f4f
+V
+&Baekjoon/2020-03-12/Baekjoon11053.java,a\a\aa38b22a401ec331c1c30111581e931afaf69cc0
+U
+%Baekjoon/2020-03-12/Baekjoon2156.java,3\0\30fe23bd8aae49c8db52a141315c6a9de6f0d550
+V
+&Baekjoon/2020-03-12/Baekjoon11054.java,8\e\8e4e97a0392e4731b6b64b7f7d7c5b58bdeb14a3

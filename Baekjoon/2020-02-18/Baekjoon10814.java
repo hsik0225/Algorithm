@@ -1,8 +1,4 @@
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.io.*;
 import java.util.Arrays;
 
 public class Baekjoon10814 {
@@ -20,10 +16,10 @@ public class Baekjoon10814 {
 
         Arrays.sort(people, (o1, o2) -> {
             String firstPersonAge = o1.split(" ")[0];
-            String secondPersonAge = o2.split(" ")[0];
+            String seconfrontersonAge = o2.split(" ")[0];
 
             int firstAge = Integer.parseInt(firstPersonAge);
-            int secondAge = Integer.parseInt(secondPersonAge);
+            int secondAge = Integer.parseInt(seconfrontersonAge);
             return Integer.compare(firstAge, secondAge);
         });
 
