@@ -29,3 +29,9 @@ U
 %Baekjoon/2020-03-05/Baekjoon9461.java,4\9\49bbce9581fe306fcec36f926afbe38b0e5b0de5
 U
 %Baekjoon/2020-03-05/Baekjoon1149.java,e\a\ea6b6913e2eff90fb9195a416cd75d837e8c85d2
+U
+%Baekjoon/2020-03-06/Baekjoon2579.java,4\2\422b0e6295e1a6be45bf3720b7b4e42fb62fcd4a
+U
+%Baekjoon/2020-03-06/Baekjoon1932.java,4\d\4d18bbd940bfe7a4ec59d61cfecff8c65e783292
+U
+%Baekjoon/2020-03-06/Baekjoon1463.java,f\7\f721aa7761e515498be8c1dd3d7c8367d227d3a5
