@@ -1,3 +1,5 @@
+package cp1.operation;
+
 /*
 https://www.acmicpc.net/problem/10172
 강아지 출력

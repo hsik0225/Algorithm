@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/2588
+package cp1.operation;// https://www.acmicpc.net/problem/2588
 
 import java.util.Scanner;
 

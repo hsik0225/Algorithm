@@ -1,3 +1,5 @@
+package cp1.operation;
+
 /*
 https://www.acmicpc.net/problem/10171
 고양이 출력

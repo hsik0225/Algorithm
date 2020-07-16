@@ -1,4 +1,4 @@
-/*
+package cp1.operation;/*
 https://www.acmicpc.net/problem/1000
 첫째 줄에 A+B를 출력한다.
 */
