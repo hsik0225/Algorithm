@@ -6,15 +6,31 @@ https://www.acmicpc.net/problem/10989
 
 */
 
+import java.io.*;
 import java.util.Scanner;
 
 public class Baekjoon10989 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+        int n = Integer.parseInt(br.readLine());
+
+        int[] numbers = new int[10001];
         while (n-- > 0) {
-
+            numbers[Integer.parseInt(br.readLine())]++;
         }
+
+        for (int i = 0; i < 10001; i++) {
+            if (numbers[i] > 0) {
+                for (int j = 0; j < numbers[i]; j++) {
+                    bw.write(Integer.toString(i) + "\n");
+                }
+            }
+        }
+
+        bw.flush();
+        bw.close();
+        br.close();
     }
 }
