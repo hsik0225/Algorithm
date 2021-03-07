@@ -33,6 +33,7 @@
       <sourceFolder url="file://$MODULE_DIR$/BaekjoonTest" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Study" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BarkingDog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BaekjoonStudy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
