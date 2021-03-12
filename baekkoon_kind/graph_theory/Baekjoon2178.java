@@ -1,4 +1,4 @@
-package cp20.graph_theory;
+package graph_theory;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -9,31 +9,31 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-04" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-06" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-08" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-09" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-17" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-18" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-20" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-02-27" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-02" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-03" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-04" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-05" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-06" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-12" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-16" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-17" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-18" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-19" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon/2020-03-21" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Baekjoon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-02-27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step/2020-03-21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon_step" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BaekjoonTest" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Study" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BarkingDog" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/BaekjoonStudy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekkoon_kind" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

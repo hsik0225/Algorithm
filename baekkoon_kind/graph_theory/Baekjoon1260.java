@@ -1,4 +1,4 @@
-package cp20.graph_theory;
+package graph_theory;
 
 import java.io.BufferedReader;
 import java.io.IOException;
